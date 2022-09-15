@@ -14,11 +14,11 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
- </div><br />
+ </div><br/>
 
 <a href="https://github.com/mathcald">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mathcald&show_icons=true&theme=radical" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcald&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=mathcald&show_icons=true&theme=radical"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcald&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
 
