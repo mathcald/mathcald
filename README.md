@@ -3,7 +3,7 @@
 ### About me
 
 * 💼 Open to work
-* 🚀 Studying about improve performance and good practices at React and Data Science
+* 🚀 Studying about improve performance and good practices at Python and Data Science
 * ☀  I love to study on different subjects, such as psychology, social science, pop music, etc.
 
 <div style="display: inline_block"> <br/>
