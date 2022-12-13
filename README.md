@@ -1,4 +1,4 @@
-## Hi! I'm just Caldas 🖐
+## Hi! I'm Caldas 🖐
 
 ### About me
 
